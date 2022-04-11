@@ -12,7 +12,7 @@
   <img src="listView.png" height="300" style="vertical-align: middle">
 </p>
 
-#### URL do video de demonstração:
-https://youtu.be/kWfL_glPnJ8
+<!-- #### URL do video de demonstração:
+https://youtu.be/kWfL_glPnJ8 -->
 
 Aluno: HÉRICLES EMANUEL SEMEDO - LEIRT 2020/21
